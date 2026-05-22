@@ -1,0 +1,12 @@
+name: turbokart
+description: "TurboKart — Multi-Vendor Grocery Delivery"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+# Keep all existing dependencies — just the name changes above
+# Copy the full dependencies section from MultiVendingGroceryApp/pubspec.yaml
+# and paste it here replacing "multi_vending_grocery_app" → "turbokart" in any
+# package references.
